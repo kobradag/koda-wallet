@@ -1,5 +1,5 @@
 {
-  "name": "@kaspa/wallet",
+  "name": "@kobradag/wallet",
   "version": "1.4.26",
   "description": "Node module for kaspa",
   "main": "dist/index.js",
